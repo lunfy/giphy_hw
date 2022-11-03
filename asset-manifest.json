@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/giphy_hw/static/css/main.073c9b0a.css",
+    "main.js": "/giphy_hw/static/js/main.648134d5.js",
+    "index.html": "/giphy_hw/index.html",
+    "main.073c9b0a.css.map": "/giphy_hw/static/css/main.073c9b0a.css.map",
+    "main.648134d5.js.map": "/giphy_hw/static/js/main.648134d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.648134d5.js"
+  ]
+}
